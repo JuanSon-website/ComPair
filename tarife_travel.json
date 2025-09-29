@@ -1,0 +1,5 @@
+[
+  { "anbieter": "Telekom", "beschreibung": "EU-Roaming 5 GB", "preis": 9.99, "link": "https://www.telekom.de" },
+  { "anbieter": "Vodafone", "beschreibung": "Urlaubspaket 7 GB", "preis": 12.99, "link": "https://www.vodafone.de" },
+  { "anbieter": "O2", "beschreibung": "Reisepass 10 GB", "preis": 14.99, "link": "https://www.o2online.de" }
+]

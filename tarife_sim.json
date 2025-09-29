@@ -1,0 +1,5 @@
+[
+  { "anbieter": "Telekom", "beschreibung": "20 GB SIM-Only", "preis": 29.99, "link": "https://www.telekom.de" },
+  { "anbieter": "Vodafone", "beschreibung": "15 GB SIM-Only", "preis": 24.99, "link": "https://www.vodafone.de" },
+  { "anbieter": "O2", "beschreibung": "10 GB SIM-Only", "preis": 19.99, "link": "https://www.o2online.de" }
+]

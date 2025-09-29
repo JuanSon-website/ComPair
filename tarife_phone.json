@@ -1,0 +1,5 @@
+[
+  { "anbieter": "Telekom", "beschreibung": "iPhone 14 + 20 GB", "preis": 49.99, "link": "https://www.telekom.de" },
+  { "anbieter": "Vodafone", "beschreibung": "Samsung S23 + 15 GB", "preis": 44.99, "link": "https://www.vodafone.de" },
+  { "anbieter": "O2", "beschreibung": "Google Pixel 8 + 10 GB", "preis": 39.99, "link": "https://www.o2online.de" }
+]
