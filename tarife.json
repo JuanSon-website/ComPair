@@ -1,0 +1,5 @@
+[
+  { "anbieter": "Telekom", "daten": "20 GB", "preis": 29.99, "link": "https://www.telekom.de" },
+  { "anbieter": "Vodafone", "daten": "15 GB", "preis": 24.99, "link": "https://www.vodafone.de" },
+  { "anbieter": "O2",      "daten": "10 GB", "preis": 19.99, "link": "https://www.o2online.de" }
+]
